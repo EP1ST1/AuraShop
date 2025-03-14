@@ -2,7 +2,7 @@
 import React, { useState } from 'react'
 import { FlatList, View, Text, RefreshControl } from 'react-native'
 import { SafeAreaView } from "react-native-safe-area-context"
-import ProductCard from "@/components/productcard"
+import ProductCard from '@/components/ProductCard'
 
 export default function Home() {
 
